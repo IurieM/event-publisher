@@ -11,5 +11,4 @@ var config = {
     retryInterval: [1000, 2000],
     validationPolicy: 'STRICT'
 };
-
 module.exports = config;

@@ -31,7 +31,8 @@
     "gulp-istanbul": "^1.0.0",
     "gulp-line-ending-corrector": "^1.0.1",
     "gulp-nsp": "^2.1.0",
-    "gulp-util": "^3.0.7"
+    "gulp-util": "^3.0.7",
+    "run-sequence": "^1.2.2"
   },
   "repository": "https://iurie.marchitan@stash.collinsoncloud.com/stash/scm/sc/collinson_datahub_client_nodejs.git",
   "scripts": {
